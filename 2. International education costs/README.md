@@ -101,7 +101,7 @@ Users can input a **university name** to retrieve:
 |-------------------------------------------------------------|--------|
 | Define a meaningful objective and research questions        | ✅     |
 | Perform data cleaning, preprocessing, and exploration       | ✅     |
-| Use at least one baseline and one Week 7+ model             | ✅     |
+| Use at least one baseline and one advance model             | ✅     |
 | Compare model performance and justify decisions             | ✅     |
 | Include visualisation and discussion of model results       | ✅     |
 
@@ -114,7 +114,7 @@ Users can input a **university name** to retrieve:
 | Linear Regression as baseline                                              | ✅     |
 | Polynomial Regression to improve baseline                                 | ✅     |
 | Use of clustering for structure discovery                                 | ✅     |
-| Use of at least one Week 7+ model (Decision Tree)                         | ✅     |
+| Use of Decision Tree                                                      | ✅     |
 | Parameter tuning on a model (Decision Tree `max_depth`)                  | ✅     |
 | Evaluation with multiple metrics (MAE, MSE, R²)                            | ✅     |
 | Optional function for user lookup by university name                      | ✅     |
@@ -141,6 +141,4 @@ Users can input a **university name** to retrieve:
 ## Author
 
 - Name: *Kundan Singh Shekhawat*
-- Student ID: *48849855*
-- Unit: COMP6200 – Data Science Concepts and Techniques
 

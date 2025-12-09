@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-**** More detailed README files are included inside the individual project.**
+**More detailed README files are included inside the individual project.**
 
 ### Main Components Being Analyzed
 - A collection of data science projects demonstrating skills in statistical analysis, machine learning, network analysis, clustering, and predictive modeling.
@@ -57,7 +57,7 @@ Each project includes clear objectives, methodology, results, and code improveme
 
 ### Overview
 - Predicts the total cost of studying abroad for international students by analyzing tuition, rent, living costs, visa, and insurance expenses. Compares regression models, applies clustering, and visualizes affordability patterns.
-- 
+
 ### Dataset Content
         Main cost components being analyzed:
         - Tuition fees (USD)
